@@ -29,7 +29,7 @@
 
 - 💬 Ask me about **C#, JAVA and React JS**
 
-- 📫 How to reach me **ashmasandeepa1@gmail.com**
+- 📫 How to reach me **sandeepajayawickrama@gmail.com**
 
 ---
 
