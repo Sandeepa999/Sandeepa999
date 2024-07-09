@@ -1,12 +1,28 @@
-<h1 align="center">Hi 👋, I'm Sandeepa Jayawickrama</h1>
+<div align=center>
+        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+    </div>
+    <div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Fathy+%F0%9F%91%8B;Computer+Science+Student;Back-End+Engineer;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" />
+    </div>
 <h3 align="center">A passionate ASP.NET Core Full-Stack developer from Sri Lanka</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sandeepa999&label=Profile%20views&color=0e75b6&style=flat" alt="sandeepa999" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sandeepa999&color=brightgreen" alt="watching_count" />
+  <img src="https://img.shields.io/badge/Age-25-blue" />
+  <img src="https://img.shields.io/badge/Focus-ASP.NET%20Core-brightgreen" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-brightgreen" />
+</p>
+
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 ---
 
 <a target="_blank" align="center">
-  <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://camo.githubusercontent.com/b11e7b61bd4e5d72e7203a32b84c726e0ca3a53daac1af266ed17cb1069664f6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f38312f31372f38622f38313137386234376138353938663063383163343739396632636464343035372e676966">
 </a>
 
 - 🌱 I’m currently learning **ASP.NET Core**
